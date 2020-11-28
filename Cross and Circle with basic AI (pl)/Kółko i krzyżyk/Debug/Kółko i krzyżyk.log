@@ -1,0 +1,4 @@
+﻿  SI.cpp
+C:\Users\Kapi2700\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\SI.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kapi2700\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\SI.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  Kółko i krzyżyk.vcxproj -> C:\Users\Kapi2700\source\repos\Kółko i krzyżyk\Debug\Kółko i krzyżyk.exe
